@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+experiments/
+logs/
+run.log
+
+results/
+checkpoints/
+*.pth
+*.pt
