@@ -73,7 +73,6 @@ The released code supports paired remote sensing dehazing datasets organized wit
 | --- | --- | --- |
 | HazeRS45 dataset | [Baidu Netdisk](https://pan.baidu.com/s/1u8EKXjk1DTLT7pldPJuRmg) | `bi2n` |
 | RSID dataset | [Trinity-Net repository](https://github.com/chi-kaichen/Trinity-Net) | N/A |
-| Pre-trained checkpoints for RSID | [Baidu Netdisk](https://pan.baidu.com/s/13KagcbEW2BPv-6KXL9ahOQ?pwd=xb8r) | `xb8r` |
 
 After downloading a dataset, arrange it as:
 
