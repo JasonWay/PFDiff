@@ -201,7 +201,21 @@ python test.py \
 
 ## Citation
 
-If this repository is useful for your research, please cite the paper after the final bibliographic information is available.
+If this repository is useful for your research, please cite our paper:
+
+J. Wei, Y. Cao, D. Chen, P. Chen, Z. Wang, and C. Chen, "PFDiff: Physics- and Frequency-Guided Residual Diffusion for Remote Sensing Image Dehazing," in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: [10.1109/JSTARS.2026.3731199](https://doi.org/10.1109/JSTARS.2026.3731199).
+
+```bibtex
+@article{Wei2026PFDiff,
+  author   = {Wei, J. and Cao, Y. and Chen, D. and Chen, P. and Wang, Z. and Chen, C.},
+  title    = {{PFDiff}: Physics- and Frequency-Guided Residual Diffusion for Remote Sensing Image Dehazing},
+  journal  = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year     = {2026},
+  doi      = {10.1109/JSTARS.2026.3731199},
+  url      = {https://doi.org/10.1109/JSTARS.2026.3731199},
+  keywords = {Modeling;Remote sensing;Image dehazing;Frequency;PSNR;Training;Physics;Degradation;Cleaning;Measurement;Atmospheric scattering model;frequency prior;high-level vision tasks;physics prior;remote sensing image dehazing;residual diffusion}
+}
+```
 
 ## License
 
